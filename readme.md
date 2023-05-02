@@ -2,7 +2,7 @@
 
 *Description*
 
-* _Press "*" for Multiplication Operation, for example (25*5)._
+* _Press "(*)" for Multiplication Operation, for example (25(*)5)._
 * _Press "/" for Division Operation, for example (25/5)._
 * _Press "+" for Addition Operation, for example (25+5)._
 * _Press "-" for Subtraction Operation, for example (25-5)._
